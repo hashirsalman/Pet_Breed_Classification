@@ -1,4 +1,4 @@
-This project classifies images of pet breeds using custom Convolution neural networks and 
+This project classifies images of pet breeds using a custom model which is made up of convolution neural networks, and 
 then compares its performace with pretrained models like EfficientNet, MobileNet and ResNet.
 
 To install the required packages, run this command
